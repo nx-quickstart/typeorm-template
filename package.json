@@ -39,7 +39,7 @@
     "@nx/next": "^17.2.5",
     "@nx/node": "v17.2.5",
     "@nx/react": "v17.2.5",
-    "@nx/webpack": "v17.2.5",
+    "@nx/webpack": "v17.2.6",
     "@nx/workspace": "v17.2.5",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.7",
     "@svgr/webpack": "^8.0.1",
